@@ -1,1 +1,0 @@
-# arrays-part-1
